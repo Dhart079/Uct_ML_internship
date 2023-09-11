@@ -1,6 +1,6 @@
 # Crop and Weed Detection using YOLOv3 and OpenCV
 
-![Crop and Weed Detection](https://github.com/Dhart079/uct_ml_internship/blob/main/Detection/Detection/data/detection/detection_1.jpeg)
+![](https://github.com/Dhart079/uct_ml_internship/blob/main/Detection/Detection/data/detection/detection_1.jpeg)
 
 ## Overview
 
